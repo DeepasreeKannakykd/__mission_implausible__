@@ -65,12 +65,13 @@ npm install # or yarn install
 
 # Run
 npm run dev # or yarn dev
+
 open https://v0-terrible-fashion-advice.vercel.app/ to see the result
 ### Project Documentation
 
 For Software:
 
-# Screenshots (Add at least 3)
+# Screenshots 
 <img src="Screenshot 2025-08-08 181404.png"> 
 The landing page of Style-Critic, a humorous AI-powered fashion app that offers intentionally bad style advice. Users can upload their outfit to receive terrible tips with the “Ruin My Style” button or browse chaotic fashion fails through “Explore Chaos.” Key features include Instant Disasters, Anti-Glow Up, and The Stage — all designed to help users look gloriously unfashionable.
 
