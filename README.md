@@ -78,6 +78,9 @@ The landing page of Style-Critic, a humorous AI-powered fashion app that offers 
 <img src="Screenshot 2025-08-08 190711.png">
 The Upload Your Outfit section of the Style-Critic app, where users can submit their fashion photos for AI-powered roasts. Alongside the upload box is a guide titled Pro Tips for Maximum Destruction, offering humorous advice on how to get the harshest critique — from full-body shots and good lighting to flaunting accessories. A playful warning at the bottom reminds users that the AI is brutally honest, with side effects including laughter and existential fashion crises.
 
+<img src="Screenshot 2025-08-08 201930.png">
+This screen displays the final results of the fashion roast. The app gives a Disaster Score (in this case, a proud 9.2/10), along with an over-the-top fashion emergency message and detailed chaos metrics like “Catastrophic” color coordination and “Confusing” overall vibe. Users can then share their chaos or “Add to the Stage” to showcase their disastrous masterpiece.
+
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
