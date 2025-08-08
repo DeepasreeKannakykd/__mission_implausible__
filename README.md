@@ -63,6 +63,7 @@ For Software:
 https://github.com/DeepasreeKannakykd/__mission_implausible__/tree/main
 
 cd style-critic
+
 npm install # or yarn install
 
 # Run
