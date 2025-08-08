@@ -1,60 +1,81 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Glow Down 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Mission Implausible
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Deepasree Kannaky K D - Sahrdaya Collage of Advanced Studies,Kodakara
+- Member 2: Meghna Bagi - Sahrdaya Collage of Advanced Studies,Kodakara
 
 ### Project Description
-[2-3 lines about what your project does]
+Style-Critic is a satirical fashion app that offers hilariously bad style tips to help users intentionally glow down. Built using V0.dev and deployed on Vercel, the app embraces fashion disasters, mismatched outfits, and chaotic advice — on purpose.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Everyone’s obsessed with glowing up, following trends, and looking their best — but what about those who want to glow down? There’s no app for people who want to dress worse, clash harder, and make fashion choices that scream “why?” We’re solving the nonexistent crisis of not having a guide to look intentionally terrible.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Enter Style-Critic — your personal anti-stylist. Instead of helping you look better, we proudly guide you toward fashion chaos: crocs with suits, glitter overload, and haircuts no one should replicate. With a tap, you’ll get terrible tips, cringe-worthy combos, and confidence to walk out looking like a glorious mess. You're welcome (or... sorry?).
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+
+Languages used:
+JavaScript / TypeScript
+HTML & CSS
+Frameworks used:
+Next.js (auto-generated via V0.dev)
+
+Libraries used:
+Tailwind CSS (for styling)
+shadcn/ui (for modern, reusable UI components)
+Lucide Icons (for simple, lightweight iconography)
+
+Tools used:
+V0.dev - for visually designing and exporting the UI
+Vercel - for deploying and hosting the app
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+Main Components:
+Personal Computer or Laptop 
+Internet connection
+Mobile Device (optional, for testing responsive design)
+
+Specifications:
+Operating System
+Processor
+RAM
+Storage
+
+Tools Required:
+Web Browser (e.g., Chrome, Firefox — to access V0 and test the app)
+VS Code or any code editor (for modifying exported code)
+Node.js & npm/yarn (for running the app locally)
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+cd style-critic
+npm install # or yarn install
 
 # Run
-[commands]
-
+npm run dev # or yarn dev
+open https://v0-terrible-fashion-advice.vercel.app/ to see the result
 ### Project Documentation
+
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img src="Screenshot 2025-08-08 181404.png"> 
+The landing page of Style-Critic, a humorous AI-powered fashion app that offers intentionally bad style advice. Users can upload their outfit to receive terrible tips with the “Ruin My Style” button or browse chaotic fashion fails through “Explore Chaos.” Key features include Instant Disasters, Anti-Glow Up, and The Stage — all designed to help users look gloriously unfashionable.
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img src="Screenshot 2025-08-08 190711.png">
+The Upload Your Outfit section of the Style-Critic app, where users can submit their fashion photos for AI-powered roasts. Alongside the upload box is a guide titled Pro Tips for Maximum Destruction, offering humorous advice on how to get the harshest critique — from full-body shots and good lighting to flaunting accessories. A playful warning at the bottom reminds users that the AI is brutally honest, with side effects including laughter and existential fashion crises.
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -88,9 +109,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Deepasree Kannaky K D: Designed the complete UI using V0.dev, customized the exported Next.js code, styled components with Tailwind CSS, and deployed the app using Vercel. Also wrote the app content, humorous tooltips, taglines, and ensured overall project flow and functionality.
+- Meghna: Contributed creative ideas for fashion roasts, crafted sarcastic content for tooltips and warning messages, and assisted in refining the user experience to maximize comedic impact. Helped test and review design layouts and feature interactions.
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
