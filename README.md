@@ -67,10 +67,6 @@ cd style-critic
 npm install # or yarn install
 
 # Run
-# Start the development server
-npm run dev
-# or
-yarn dev
 
 npm run dev # or yarn dev
 
