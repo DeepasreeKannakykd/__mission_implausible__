@@ -85,7 +85,12 @@ The Upload Your Outfit section of the Style-Critic app, where users can submit t
 
 <img src="Screenshot 2025-08-08 201930.png">
 This screen displays the final results of the fashion roast. The app gives a Disaster Score (in this case, a proud 9.2/10), along with an over-the-top fashion emergency message and detailed chaos metrics like “Catastrophic” color coordination and “Confusing” overall vibe. Users can then share their chaos or “Add to the Stage” to showcase their disastrous masterpiece.
+<img src="Screenshot 2025-08-09 171904.png">
+The image shows four colorful cards from a playful fashion app, each offering comically bad style features: Terrible Advice (red) for the worst fashion tips, Anti-Glow Up Tips (orange) to sabotage looks, The Stage (yellow) to showcase fashion fails, and Chaos Generator (purple) for AI-made disastrous outfit combos.
 
+ <img src="Screenshot 2025-08-09 172918.png">
+ The image shows “The Stage”, a gallery of legendary fashion disasters. Featured are The Time Traveler (9.8/10) with clashing decades, The Neon Nightmare (9.5/10) in blinding colors, and Formal Beach Vibes (9.2/10) pairing a tuxedo with flip-flops, each tagged, rated, and open for likes, comments, and sharing.
+ 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
