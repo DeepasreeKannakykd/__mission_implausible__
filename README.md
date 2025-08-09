@@ -70,7 +70,7 @@ npm install # or yarn install
 
 npm run dev # or yarn dev
 
-open  v0-terrible-fashion-advice.vercel.app
+open  https://v0-terrible-fashion-advice.vercel.app/
 to see the result
 ### Project Documentation
 
